@@ -30,7 +30,7 @@ const drawCount = {
 };
 
 // Size of each piece
-const data = [25, 25, 25, 25, 25, 25];
+const data = [20, 20, 20, 20, 20, 20];
 
 // Background color for each piece
 var pieColors = [
